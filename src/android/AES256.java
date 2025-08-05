@@ -18,7 +18,7 @@ import javax.crypto.spec.IvParameterSpec;
 import javax.crypto.spec.PBEKeySpec;
 import javax.crypto.spec.SecretKeySpec;
 
-import shaded.org.apache.commons.codec.binary.Hex;
+import org.apache.commons.codec.binary.Hex;
 
 /**
  * This class used to perform AES encryption and decryption.
